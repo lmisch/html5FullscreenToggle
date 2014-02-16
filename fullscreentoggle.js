@@ -1,6 +1,6 @@
 // This is my approach, should be working in all "modern" browsers.
-// Feedback welcome!
-// twitter: @labemi
+// However, chrome ends fullscreen mode after a link has been clicked.
+// labemi.com | @labemi | github.com/lmisch
 
 // replace button label (should imho be set according to expected onClick behaviour, not current state)
 var lngFullscreenActive = "Vollbildmodus beenden";
